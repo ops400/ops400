@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ops400
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning c++ and godot
-- 📫 Reach me in discord: ops400 #6115
+Hi guys to know my name just read my name. I Like programing.And i'am trying to use my dumb head to program in c++ and use godot
+Reach me on discord: ops400 #6115
 
 <!---
 ops400/ops400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
